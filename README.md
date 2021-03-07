@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 #### 📍 Located in Espoo, Finland.
 
-#### 🎙 Available for work and talk.
-
 #### ✌️ Workable both in frontend and backend.
 
 #### 🚀 Preferable with PHP, Golang, Ruby, Python and Javascript.
