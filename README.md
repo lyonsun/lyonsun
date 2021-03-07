@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 
 -->
 
-#### 💻 Coding since 2007.
-
 #### 👨🏻‍💻 I am a web developer.
 
 #### 📍 Located in Espoo, Finland.
