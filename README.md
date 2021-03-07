@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 #### 🚀 Preferable with PHP, Golang, Ruby, Python and Javascript.
 
-#### ❤️ love chess, reading, fishing, photographing, and many sports.
+#### ❤️ Love chess, reading, fishing, photographing, and many sports.
 
 </div>
