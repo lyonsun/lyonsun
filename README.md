@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 - 
 -->
 
-#### 💻 Coding since 2007.
+##### 💻 Coding since 2007.
 
-#### 👨🏻‍💻 I am a web developer.
+##### 👨🏻‍💻 I am a web developer.
 
-#### 📍 Located in Espoo, Finland.
+##### 📍 Located in Espoo, Finland.
 
-#### 🎙 Available for work and talk.
+##### 🎙 Available for work and talk.
 
-#### ✌️ Workable both in frontend and backend.
+##### ✌️ Workable both in frontend and backend.
 
-#### 🚀 Preferable with PHP, Golang, Ruby, Python and Javascript.
+##### 🚀 Preferable with PHP, Golang, Ruby, Python and Javascript.
 
-#### ❤️ love chess, reading, fishing, photographing, and many sports.
+##### ❤️ love chess, reading, fishing, photographing, and many sports.
 
 </div>
