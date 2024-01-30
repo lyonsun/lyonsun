@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 #### ✌️ Developing both in frontend and backend.
 
-#### 🚀 Preferable with PHP, Golang, Ruby, Python and Javascript.
+#### 🚀 Preferable with JavaScript, PHP, Golang, Ruby and Python.
 
 #### ❤️ Love chess, reading, fishing, photographing, and many sports.
 
